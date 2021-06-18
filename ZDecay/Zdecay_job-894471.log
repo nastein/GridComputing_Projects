@@ -1,0 +1,13 @@
+** INFO: adding module        ParticlePropagator       ParticlePropagator       
+** INFO: adding module        Efficiency               ChargedHadronTrackingEfficiency
+** INFO: adding module        Efficiency               ElectronTrackingEfficiency
+** INFO: adding module        Efficiency               MuonTrackingEfficiency   
+** INFO: adding module        MomentumSmearing         ChargedHadronMomentumSmearing
+** INFO: adding module        MomentumSmearing         ElectronMomentumSmearing 
+** INFO: adding module        MomentumSmearing         MuonMomentumSmearing     
+** INFO: adding module        Merger                   TrackMerger              
+** INFO: adding module        SimpleCalorimeter        ECal                     
+** INFO: adding module        SimpleCalorimeter        LumiCalF                 
+** INFO: adding module        SimpleCalorimeter        LumiCalR                 
+** ERROR: can't read configuration file cards/ILCgen/ILCgen_LumiCalR_Binning.tcl
+missing close-bracket

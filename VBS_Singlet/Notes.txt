@@ -1,0 +1,7 @@
+Here are notes for running on lighthouse/physdoe:
+
+Have VBSjobarray.sh set up to submit a job array of MG5 simulations. Currently need to run 40 sims with 2500 events each, note these are hard coded elsewhere
+
+TODO: find way to not hard code simulation parameters (number of jobs in array, MH, sin alpha etc..)
+
+Process jobs runs over all the outputs of a simulation and looks for bad files, computes cross section etc. 
